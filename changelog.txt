@@ -1,3 +1,6 @@
+v1.1.0 (22.3.2021)
+	- rozdeleni repositare na Kodi 18 a 19
+
 v1.0.3 (10.2.2019)
 	- HTTPS
 	
